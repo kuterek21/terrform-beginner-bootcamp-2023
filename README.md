@@ -1,6 +1,6 @@
 # Terraform Beginner Bootcamp 2023
 
-## Semantic Vesioning
+## Semantic Vesioning :mege:
 
 This is explanation of the Semantic Versioning
 
