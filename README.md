@@ -55,3 +55,16 @@ chmod 666 ./bin/file_name
 
  - we also replace the init with the before as per GITPODs documentation
  
+ ### Working Env Var
+
+ We can list out all the Enviroment Variables (Env Vars) using ```env``` command
+
+ We can filter specific env var using grep eg. `env | grep AWS_`
+
+ ### Setting and unsetting Env Var 
+
+ In the terminal we can set using 'export PROJ='HELLO_WORLD'
+
+ We can set en var tempoirarly:
+
+ 
