@@ -67,4 +67,14 @@ chmod 666 ./bin/file_name
 
  We can set en var tempoirarly:
 
- 
+ ### AWS CLI Instalation
+
+ ```
+ **aws sts** 
+aws sts get-caller-identity
+ ```
+#### AWS ENV VARs
+
+export AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+export AWS_DEFAULT_REGION=us-west-2
